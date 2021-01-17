@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am a Software Engineeer, who is passionate
+about learning and continual improvement of self, as well as the team.
+
 
 <!--
 **Dalinkw3nt/Dalinkw3nt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
