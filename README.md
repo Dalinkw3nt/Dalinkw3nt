@@ -1,7 +1,10 @@
 ### Hi there 👋
 I am a Software Engineeer, who is passionate
 about learning and continual improvement of self, as well as the team.
-
+ 👯 I’m looking to collaborate on any open source projects, big or small. Java | Python | JavaScript
+<p>This is how coding makes me feel:</p>
+<img src = "pic01.jpg">
+ 
 
 <!--
 **Dalinkw3nt/Dalinkw3nt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
