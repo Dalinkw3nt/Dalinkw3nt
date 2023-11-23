@@ -4,8 +4,7 @@ about learning and continual improvement of self, as well as the team.
  👯 I’m looking to collaborate on any open source projects, big or small. </br>
                                                                            <p align="center">Java | Python | JavaScript | DevOps</Br></br>
                                                                      This is how coding makes me feel:</p>
-
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://github.com/Dalinkw3nt/Dalinkw3nt/blob/main/Success%20is%20uncomfortable.mp4) 
+<img src =pic01.jpg>
 
 <!--
 **Dalinkw3nt/Dalinkw3nt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
